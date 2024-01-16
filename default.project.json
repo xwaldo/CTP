@@ -1,0 +1,17 @@
+{
+  "name": "CTP",
+  "tree": {
+    "$className": "Folder",
+
+    "Plugin":
+		{
+			"$path": "Plugin"
+		},
+	
+		"Modules":
+		{
+			"$path": "Modules"
+		}
+		
+  }
+}
